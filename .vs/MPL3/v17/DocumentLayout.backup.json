@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\New folder\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0AD3A8BA-A309-43A0-928B-2E53D291E94F}|MPL3\\MPL3.csproj|c:\\new folder\\mpl3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0AD3A8BA-A309-43A0-928B-2E53D291E94F}|MPL3\\MPL3.csproj|solutionrelative:mpl3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AD3A8BA-A309-43A0-928B-2E53D291E94F}|MPL3\\MPL3.csproj|c:\\new folder\\mpl3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0AD3A8BA-A309-43A0-928B-2E53D291E94F}|MPL3\\MPL3.csproj|solutionrelative:mpl3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\New folder\\MPL3\\Form1.cs",
+              "RelativeDocumentMoniker": "MPL3\\Form1.cs",
+              "ToolTip": "C:\\New folder\\MPL3\\Form1.cs [Design]",
+              "RelativeToolTip": "MPL3\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-28T14:33:53.602Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\New folder\\MPL3\\Form1.cs",
+              "RelativeDocumentMoniker": "MPL3\\Form1.cs",
+              "ToolTip": "C:\\New folder\\MPL3\\Form1.cs",
+              "RelativeToolTip": "MPL3\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-28T14:05:16.213Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
